@@ -6,7 +6,22 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Level/LVL_MagicZombie.umap"
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Level/LVL_MagicZombie.umap",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Grass/brown_mud_leaves_01_ao_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Grass/brown_mud_leaves_01_diff_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Grass/brown_mud_leaves_01_disp_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Grass/brown_mud_leaves_01_nor_dx_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Grass/brown_mud_leaves_01_rough_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Sand/forest_leaves_02_ao_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Sand/forest_leaves_02_diffuse_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Sand/forest_leaves_02_disp_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Sand/forest_leaves_02_nor_dx_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Sand/forest_leaves_02_rough_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Rock/lichen_rock_ao_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Rock/lichen_rock_diff_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Rock/lichen_rock_disp_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Rock/lichen_rock_nor_dx_2k.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/Rock/lichen_rock_rough_2k.uasset"
 			]
 		}
 	]
