@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Level/LVL_MagicZombie.umap"
 			]
 		}
 	]
