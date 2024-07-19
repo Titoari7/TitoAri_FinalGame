@@ -75,7 +75,17 @@
 				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Assets/CharacterHuman/Animation/attack_Montage.uasset",
 				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/ThirdPerson/Input/Actions/IA_Fire.uasset",
-				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/M_Lava.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/M_Lava_Stay.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/M_Lava_Inst.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Material/M_Kayu.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Assets/CharacterHuman/Animation/Falling_Idle_final.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Assets/CharacterHuman/Animation/Jumping_final.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Assets/CharacterHuman/Animation/JumpEnd.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Assets/CharacterHuman/Animation/Jumpforward.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Assets/CharacterHuman/Animation/JumpEnd_2.uasset",
+				"D:/Installer/Unreal Engine 5/Game/GameplayFramework_TitoAri/Tito Ari_RealGameplay/TitoAri_FinalGame/MagicZombie_TitoAri/Content/MagicZombie/Assets/CharacterHuman/Animation/Jumpforward2.uasset"
 			]
 		}
 	]
